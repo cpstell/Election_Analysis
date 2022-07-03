@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Election Audit
 
@@ -31,3 +31,11 @@ A breakdown of the election shows the following:
     
   * The winner:
       * Diana Degette who received 272,892 votes and 73.8% of the vote.
+
+## Election Audit Summary
+
+The winner of the election is Diana Degette with 73.8% of the vote. Denver had the highest turnout amongst the three counties.
+The candidates can use this information to alter their campaigns in the future by possibly adding more television commercials,
+Social media commercials, or mailing out more advertisments. Using Python allows the data to be analyzed in a manner than can 
+return differnt data outcomes based on the customers needs. For election candidates, the data can be used to find demographics
+of the counties and voters, plus past voting trends.
